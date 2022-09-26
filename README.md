@@ -7,12 +7,12 @@ Conextion with API Woocommerce V3 + Update Variations Product.
 # Autor
 Hector Cordero
 
-#Install
+# Install
 Install in your directory of website
 
-##Contact
+# Contact
 If you want to install on yout website contact to me h.cordero1218@gmail.com
 
-##License
+# License
 MIT Public License v3.0
 No can't used for business
